@@ -1,0 +1,18 @@
+{
+  "name": "thesingingbird",
+  "version": "1.0.0",
+  "description": "node-express web application ",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.0.0",
+    "express3-handlebars": "^0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kishankumar patel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
